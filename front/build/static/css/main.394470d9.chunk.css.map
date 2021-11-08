@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/font.css"],"names":[],"mappings":"AACA,GACI,2EAA2E,CAE3E,+BACJ","file":"main.394470d9.chunk.css","sourcesContent":["\nh1{\n    @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');\n\n    font-family: 'Oswald', sans-serif;\n}\n\n"]}
